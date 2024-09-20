@@ -4,7 +4,7 @@
 // 1. Addition
 // Create two variables, num1 and num2, and assign them any two numbers of your choice.
 // Add the two numbers and store the result in a new variable called sum.
-// Print the result using console.log().
+// Print the result using console.log()..
 
 
 

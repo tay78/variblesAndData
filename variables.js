@@ -10,5 +10,5 @@ let favoriteColor = "YOUR_COLOR_HERE";
 // 4. Create a variable called `isSunnyToday` and assign it a boolean value based on if it's sunny today.
 
 
-// 5. Console log each variable on a new line.
+// 5. Console log each variable on a new line.. 
 

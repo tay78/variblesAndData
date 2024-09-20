@@ -2,7 +2,7 @@
 
 ## 🎯 Objectives
 - Understand and use JavaScript variables.
-- Work with basic data types and operators.
+- Work with basic data types and operators..
 
 ## Table of Contents
 1. [Documentation](#documentation)

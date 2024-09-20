@@ -1,6 +1,6 @@
 // Welcome to the magical zoo! Your task is to create and manage a list of magical creatures. Let's have some fun!
 
-// 1. Declare a variable named 'creatureName' and assign it a magical creature's name as a string.
+// 1. Declare a variable named 'creatureName' and assign it a magical creature's name as a string..
 
 
 
@@ -8,7 +8,7 @@
 
 
 // 3. Do you believe that this creature is friendly to humans? 
-// Declare a variable named 'isFriendly' and assign it a boolean value.
+// Declare a variable named 'isFriendly' and assign it a boolean value
 
 
 
